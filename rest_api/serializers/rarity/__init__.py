@@ -1,0 +1,1 @@
+from .rarity_serializer import *
