@@ -1,0 +1,20 @@
+[
+  {
+    "model": "rest_api.item",
+    "pk": 1,
+    "fields": {
+      "name": "Longsword of the dead",
+      "description": "Actually the first item ever created",
+      "user": 1
+    }
+  },
+  {
+    "model": "rest_api.item",
+    "pk": 2,
+    "fields": {
+      "name": "Holy Mace",
+      "description": "Perhaps it contains a little secret..",
+      "user": 1
+    }
+  }
+]
