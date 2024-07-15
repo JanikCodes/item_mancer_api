@@ -154,3 +154,5 @@ SIMPLE_JWT = {
     'TOKEN_TYPE_CLAIM': 'token_type',
     'JTI_CLAIM': 'jti',
 }
+
+APPEND_SLASH=False
